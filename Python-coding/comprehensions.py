@@ -1,4 +1,4 @@
-'''
+
 names = []
 for _ in range(5):
     name = input("Please enter the name of someone you know. ")
@@ -17,5 +17,5 @@ invitations = [
 for invitation in invitations:
     print(invitation)
 
-'''
-print("dsLsdfL DdfDSd".capitalize())
+
+# print("dsLsdfL DdfDSd".capitalize()) only cap the first letter
